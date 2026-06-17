@@ -4,10 +4,10 @@ Unofficial Python integrations for NextGen.
 
 ## Integrations
 
-- `nextgen_query_appointments.py` - `query_appointments` (2,323 live events).
-- `nextgen_list_patients.py` - `list_patients` (975 live events).
-- `nextgen_list_locations.py` - `list_locations` (393 live events).
-- `nextgen_create_appointment.py` - `create_appointment` (54 live events).
+- `nextgen_query_appointments.py` - `query_appointments`.
+- `nextgen_list_patients.py` - `list_patients`.
+- `nextgen_list_locations.py` - `list_locations`.
+- `nextgen_create_appointment.py` - `create_appointment`.
 
 ## Usage
 
@@ -25,8 +25,8 @@ pip install -r requirements.txt
 
 ## Info
 
-This unofficial API is built by [Integuru.ai](https://integuru.ai/).
+This unofficial API is built by [Integuru](https://integuru.com).
 
-For custom requests or hosted authentication, contact richard@taiki.online.
+For custom requests or hosted authentication, contact richard@integuru.com or [schedule time with us](https://calendly.com/d/cqb8-d9x-nbf/integuru).
 
 See the [complete list of APIs by Integuru](https://github.com/Integuru-AI/APIs-by-Integuru).
