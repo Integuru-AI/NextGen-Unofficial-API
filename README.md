@@ -4,10 +4,10 @@ Unofficial Python integrations for NextGen.
 
 ## Integrations
 
-- `nextgen_query_appointments.py` - `query_appointments` (2,323 live events).
-- `nextgen_list_patients.py` - `list_patients` (975 live events).
-- `nextgen_list_locations.py` - `list_locations` (393 live events).
-- `nextgen_create_appointment.py` - `create_appointment` (54 live events).
+- `nextgen_query_appointments.py` - `query_appointments`.
+- `nextgen_list_patients.py` - `list_patients`.
+- `nextgen_list_locations.py` - `list_locations`.
+- `nextgen_create_appointment.py` - `create_appointment`.
 
 ## Usage
 
